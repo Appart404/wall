@@ -1,7 +1,7 @@
-title: 'b2a3e8.github.io'
+title: 'appart404.github.io'
 description: "site description for seo"
-baseurl: "/jekyll-theme-console"
-url: "https://b2a3e8.github.io"
+baseurl: "/wall"
+url: "https://appart404.github.io"
 
 header_pages:
   - index.md
