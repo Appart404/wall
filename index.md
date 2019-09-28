@@ -2,6 +2,7 @@
 title: /menu
 layout: home
 permalink: /
+description: News & infos sur l'Appart
 ---
 
 # Bienvenue
