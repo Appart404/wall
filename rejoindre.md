@@ -7,7 +7,7 @@ permalink: /rejoindre
 # Nous rejoindre sur l'Appart
 
 Vous pouvez simplement nous rejoindre en suivant ce lien : [discord.io/appart](https://discord.io/appart)
-<br/> Impossible de rejoindre ? Envoyez un DM sur notre compte Twitter [@AppartOff](https://twitter.com/AppartOff)
+<br/>Impossible de rejoindre ? Envoyez un DM sur notre compte Twitter [@AppartOff](https://twitter.com/AppartOff)
 
 ## Autre liens utiles
 
