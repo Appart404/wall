@@ -5,13 +5,12 @@ url: "https://appart404.github.io"
 
 header_pages:
   - index.md
-  - peter.md
-  - about.md
-  - contact.md
+  - rejoindre.md
+  - infos.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'suivez-nous sur <a href="https://twitter.com/AppartOff">twitter</a>'
 
 # Build settings
 markdown: kramdown
