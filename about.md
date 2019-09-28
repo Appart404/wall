@@ -4,11 +4,12 @@ title: /about
 permalink: /about/
 ---
 
-# L'Appart
+# jekyll-theme-console
 
-L'Appart est un serveur principalement peuplé par d'anciens membres du 18-25 de Jeuxvideo.com.
-Vous pouvez nous rejoindre sur [https://discord.io/appart](https://discord.io/appart).
+A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
+You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
 
-## Qui a fait ça ?
+## What is jekyll?
 
-Ce site a été réalisé par Acrone#4424 dans le cadre du projet **Appart404** visant à étendre l'influence du serveur au delà de Discord.
+Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
+<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.

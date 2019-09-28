@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Bienvenue
+# Welcome
 
-Vous êtes ici sur une version très basique et minimaliste d'un menu pour l'Appart.
+Bla bla bla bla. Bla bla bla bla bla bla bla bla.

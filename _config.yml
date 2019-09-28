@@ -1,16 +1,17 @@
-title: 'L'Appart'
-description: "Présentation de L'Appart"
+title: 'b2a3e8.github.io'
+description: "site description for seo"
 baseurl: "/jekyll-theme-console"
-url: "https://appart404.github.io"
+url: "https://b2a3e8.github.io"
 
 header_pages:
   - index.md
-  - rejoindre.md
+  - peter.md
   - about.md
+  - contact.md
 
 style: dark
 
-footer: 'Suivez-nous sur <a href="https://twitter.com/AppartOff">twitter</a>'
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
 markdown: kramdown
