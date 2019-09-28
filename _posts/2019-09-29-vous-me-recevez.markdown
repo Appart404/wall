@@ -10,4 +10,4 @@ Hop, vous l'aviez pas vu venir celui-là !
 
 ## Une image pour vous remercier
 
-<img src="{{site.baseurl}}/assets/img/merci.gif">
+<img src="/assets/img/merci.gif">
