@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /info
-permalink: /info/
+title: /infos
+permalink: /infos/
 ---
 
 # L'Appart
