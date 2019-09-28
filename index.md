@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Bienvenue
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Vous êtes ici sur une version minimaliste du "Mur" de l'Appart.
